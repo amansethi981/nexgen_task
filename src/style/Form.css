@@ -1,0 +1,35 @@
+#students {
+    text-align: center;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    border: 3px solid #ddd;
+    width: 100%;
+  }
+  .container{
+      text-align: center;
+  }
+  button{
+    text-transform: capitalize;
+    cursor: pointer;
+    color: #ffffff;
+    font-size: 17px;
+    font-weight: bold;
+    box-shadow: #9f00a7 0px 0px 0px 3px;
+    padding-top: 5px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    border-radius: 5px;
+    border-width: 2px;
+    background: #9F00A7;
+    outline: none;
+    position: relative;
+    margin-top: 2%;
+    text-align: center;
+  }
+  input{
+      padding-left: 5%;
+      margin-left: 3%;
+      margin-top: 1%;
+  }
+  
